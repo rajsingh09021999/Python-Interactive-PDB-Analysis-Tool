@@ -66,12 +66,6 @@ The program is structured for readability and maintainability:
   - `residue_frequencies`: Calculates and returns residue frequencies.
   - `diameter`: Computes the maximum distance between atoms in a residue.
 
-The pdbtool.py is the program required for the final project.
-
-pdbtool_man.txt is the reStructuredText document used to create the man page.
-
-pdbtool.man is the main page
-
 ## Testing
 - Test with small PDB files to validate output.
 - Ensure the program handles invalid input gracefully.
