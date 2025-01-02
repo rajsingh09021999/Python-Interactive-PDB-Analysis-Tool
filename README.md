@@ -74,6 +74,3 @@ The program is structured for readability and maintainability:
 ## Documentation
 - For user assistance, type `help` in the interactive mode to see a list of available commands.
 - Refer to the detailed in-line comments in the source code for more information on implementation details.
----
-
-For additional assistance, refer to the project documentation or contact the instructor.
